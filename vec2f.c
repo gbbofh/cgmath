@@ -1,6 +1,6 @@
 /**
  * File: vec2f.c
- * Author: Garrett Bates <garrett.bates@cs.nmt.edu>
+ * Author: Garrett Bates <gbates@cs.nmt.edu>
  * Description:
  * * Implementation for a 2-dimensional vector.
  */
